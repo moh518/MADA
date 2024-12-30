@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ÇáãäÊÌÇÊ</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <nav>
+        <ul>
+            <li><a href="index.html">ÇáÕÝÍÉ ÇáÑÆíÓíÉ</a></li>
+            <li><a href="products.html">ÇáãäÊÌÇÊ</a></li>
+            <li><a href="cart.html">ÇáÓáÉ</a></li>
+            <li><a href="checkout.html">ÇáÏÝÚ</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <h1>ÇáãäÊÌÇÊ</h1>
+    <div class="product">
+        <img src="product1.jpg" alt="ãäÊÌ 1">
+        <h3>ãäÊÌ 1</h3>
+        <p>æÕÝ ÇáãäÊÌ 1</p>
+        <p>ÇáÓÚÑ: 100 Ìäíå</p>
+        <button onclick="addToCart('ãäÊÌ 1', 100)">ÅÖÇÝÉ Åáì ÇáÓáÉ</button>
+    </div>
+    <div class="product">
+        <img src="product2.jpg" alt="ãäÊÌ 2">
+        <h3>ãäÊÌ 2</h3>
+        <p>æÕÝ ÇáãäÊÌ 2</p>
+        <p>ÇáÓÚÑ: 150 Ìäíå</p>
+        <button onclick="addToCart('ãäÊÌ 2', 150)">ÅÖÇÝÉ Åáì ÇáÓáÉ</button>
+    </div>
+</main>
+
+<footer>
+    <p>&copy; 2024 ãÊÌÑß ÇáÅáßÊÑæäí. ÌãíÚ ÇáÍÞæÞ ãÍÝæÙÉ.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
