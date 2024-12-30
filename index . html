@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ãÊÌÑß ÇáÅáßÊÑæäí</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">ÇáÕÝÍÉ ÇáÑÆíÓíÉ</a></li>
+                <li><a href="products.html">ÇáãäÊÌÇÊ</a></li>
+                <li><a href="cart.html">ÇáÓáÉ</a></li>
+                <li><a href="checkout.html">ÇáÏÝÚ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>ãÑÍÈÇð Èßã Ýí ãÊÌÑßã ÇáÅáßÊÑæäí!</h1>
+        <p>ÊÓæÞ ÇáÂä æÇÈÏÃ Ýí ÅÖÇÝÉ ÇáãäÊÌÇÊ Åáì ÓáÊß.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 ãÊÌÑß ÇáÅáßÊÑæäí. ÌãíÚ ÇáÍÞæÞ ãÍÝæÙÉ.</p>
+    </footer>
+
+</body>
+</html>
