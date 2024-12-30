@@ -3,6 +3,6 @@ let cart = [];
 
 function addToCart(productName, productPrice) {
     cart.push({ name: productName, price: productPrice });
-    alert(productName + " Êã ÅÖÇÝÊå Åáì ÇáÓáÉ");
+    alert(productName + " تم إضافته إلى السلة");
     console.log(cart);
 }
