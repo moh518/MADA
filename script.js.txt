@@ -1,0 +1,8 @@
+// script.js
+let cart = [];
+
+function addToCart(productName, productPrice) {
+    cart.push({ name: productName, price: productPrice });
+    alert(productName + "  „ ≈÷«› Â ≈·Ï «·”·…");
+    console.log(cart);
+}

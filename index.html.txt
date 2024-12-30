@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>„ Ã—ﬂ «·≈·ﬂ —Ê‰Ì</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">«·’›Õ… «·—∆Ì”Ì…</a></li>
+                <li><a href="products.html">«·„‰ Ã« </a></li>
+                <li><a href="cart.html">«·”·…</a></li>
+                <li><a href="checkout.html">«·œ›⁄</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>„—Õ»« »ﬂ„ ›Ì „ Ã—ﬂ„ «·≈·ﬂ —Ê‰Ì!</h1>
+        <p> ”Êﬁ «·¬‰ Ê«»œ√ ›Ì ≈÷«›… «·„‰ Ã«  ≈·Ï ”· ﬂ.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 „ Ã—ﬂ «·≈·ﬂ —Ê‰Ì. Ã„Ì⁄ «·ÕﬁÊﬁ „Õ›ÊŸ….</p>
+    </footer>
+
+</body>
+</html>

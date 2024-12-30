@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>«·„‰ Ã« </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <nav>
+        <ul>
+            <li><a href="index.html">«·’›Õ… «·—∆Ì”Ì…</a></li>
+            <li><a href="products.html">«·„‰ Ã« </a></li>
+            <li><a href="cart.html">«·”·…</a></li>
+            <li><a href="checkout.html">«·œ›⁄</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <h1>«·„‰ Ã« </h1>
+    <div class="product">
+        <img src="product1.jpg" alt="„‰ Ã 1">
+        <h3>„‰ Ã 1</h3>
+        <p>Ê’› «·„‰ Ã 1</p>
+        <p>«·”⁄—: 100 Ã‰ÌÂ</p>
+        <button onclick="addToCart('„‰ Ã 1', 100)">≈÷«›… ≈·Ï «·”·…</button>
+    </div>
+    <div class="product">
+        <img src="product2.jpg" alt="„‰ Ã 2">
+        <h3>„‰ Ã 2</h3>
+        <p>Ê’› «·„‰ Ã 2</p>
+        <p>«·”⁄—: 150 Ã‰ÌÂ</p>
+        <button onclick="addToCart('„‰ Ã 2', 150)">≈÷«›… ≈·Ï «·”·…</button>
+    </div>
+</main>
+
+<footer>
+    <p>&copy; 2024 „ Ã—ﬂ «·≈·ﬂ —Ê‰Ì. Ã„Ì⁄ «·ÕﬁÊﬁ „Õ›ÊŸ….</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
