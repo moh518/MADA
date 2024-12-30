@@ -3,6 +3,6 @@ let cart = [];
 
 function addToCart(productName, productPrice) {
     cart.push({ name: productName, price: productPrice });
-    alert(productName + "  „ ≈÷«› Â ≈·Ï «·”·…");
+    alert(productName + " √ä√£ √Ö√ñ√á√ù√ä√• √Ö√°√¨ √á√°√ì√°√â");
     console.log(cart);
 }
